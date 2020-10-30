@@ -5,6 +5,9 @@ Incroyable du cul
 
 Extension Chrome qui ajoute "du cul" derrière tous les "incroyable".
 
+Vous pouvez installer l'extension [ici](https://chrome.google.com/webstore/detail/incroyable-du-cul/jkhncalbljfjmgiopdnapejgkkdaaklf) 
+
+
 Inspiré de MisterMV, du "Manu Auto Correct" de Maxime Bouveron et du Bot du Cul de Bilgé Kimyonok.  
 Repris depuis l'extension "Cloud to butt" de Steven Frank.
 
